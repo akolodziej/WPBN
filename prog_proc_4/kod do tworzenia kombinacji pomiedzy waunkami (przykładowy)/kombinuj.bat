@@ -1,0 +1,2 @@
+python kombinuj.py
+pause
